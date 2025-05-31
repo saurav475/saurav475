@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Developer
 --------------------
 
-I am a skilled web developer and designer with extensive experience in the information technology and services industry. I have expertise in various technologies such as JavaScript, Typescript, Node.js (Hapi.js, Express.js), React.js (Next.js), MongoDB, MySQL, jQuery, AWS, Docker, CI/CD, and automation testing (Cypress, Jest, Playwright). My strong educational background includes a Bachelor of Technology (B.Tech.) in Computer Science from Galgotias University.
+I am a skilled web developer and designer with extensive experience in the information technology and services industry. I have expertise in various technologies such as JavaScript, Typescript, Node.js (Hapi.js, Express.js), React.js (Next.js), MongoDB, MySQL, jQuery, AWS, Docker, CI/CD, and automation testing (Cypress, Jest, Playwright). My strong educational background includes a Bachelor of Technology (B.Tech.) in Computer Science from IEM, Kolkata
 
 * 🌍  I'm based in Kolkata, India
 * ✉️  You can contact me at [sauravchoudhury541@gmail.com](mailto:sauravchoudhury541@gmail.com)
