@@ -1,5 +1,15 @@
-# 💫 About Me:
-I'm based in New Delhi, India<br>You can contact me at sauravchoudhury541@gmail.com<br>I'm learning ML, Python<br> I'm open to collaborating on Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sourav Choudhury
+=======================================================================================================================================
+
+Full-stack Developer
+--------------------
+
+I am a skilled web developer and designer with extensive experience in the information technology and services industry. I have expertise in various technologies such as JavaScript, Typescript, Node.js (Hapi.js, Express.js), React.js (Next.js), MongoDB, MySQL, jQuery, AWS, Docker, CI/CD, and automation testing (Cypress, Jest, Playwright). My strong educational background includes a Bachelor of Technology (B.Tech.) in Computer Science from Galgotias University.
+
+* 🌍  I'm based in Kolkata, India
+* ✉️  You can contact me at [sauravchoudhury541@gmail.com](mailto:sauravchoudhury541@gmail.com)
+* 🧠  I'm learning ML, Python
+* 🤝  I'm open to collaborating on Projects
 
 
 # 💻 Tech Stack:
